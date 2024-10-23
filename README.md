@@ -46,3 +46,28 @@ The project involves data manipulation, visualization, and the creation of three
 
 ---
 
+## Results
+
+This project includes three models for predicting customer churn in a telecom company:
+
+- **Model 1**: A basic model using tenure as a feature to predict churn.
+- **Model 2**: A model with dropout layers added to reduce overfitting.
+- **Model 3**: A more complex model using tenure, Monthly Charges, and Total Charges as features.
+
+For each model:
+- A confusion matrix is generated to show the prediction results.
+- An accuracy vs. epochs graph is plotted to visualize model performance over time.
+
+## Dataset
+
+The dataset contains customer information from a telecom company, focusing on whether a customer has churned. The key features used for prediction include:
+- Tenure
+- Monthly Charges
+- Total Charges
+
+## Contact
+
+For any questions or support, feel free to contact at:
+
+**Email**: [mansi41997@gmail.com](mailto:mansi41997@gmail.com)
+
